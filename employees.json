@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mustafa Güneş",
+    "department": "Asker",
+    "salary": 15000
+  },
+  {
+    "name": "Ömer Güneş",
+    "department": "Bilgisayar Mühendisi",
+    "salary": 25000
+  },
+  {
+    "name": "Abdulbaki Güneş",
+    "department": "Polis",
+    "salary": 10000
+  }
+]
